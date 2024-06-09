@@ -10,6 +10,7 @@
 
 # visual studio
 **/.vs/
+obj/
 
 # rider
 /.idea/
