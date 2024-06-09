@@ -1,0 +1,23 @@
+# Unity Folders
+/Logs/
+/Temp/
+/Library/
+/UserSettings/
+
+# solution files
+/*.sln
+/*.csproj
+
+# visual studio
+**/.vs/
+
+# rider
+/.idea/
+/Assets/Plugins/Editor/JetBrains/
+/Assets/Plugins/Editor/JetBrains.meta
+/_ReSharper.Caches/
+
+# mono develop
+/*.userprefs
+# unity recorder default dir
+/Recordings
