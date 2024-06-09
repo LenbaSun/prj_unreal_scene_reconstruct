@@ -13,7 +13,7 @@ This code was written in my spare time and is not rigorously tested, so please u
 7. Click Tool -> Reconstruct Unreal Scene From Json.
 8. The script will automatically reconstruct the scene in the currently active scene in Unity.
 
-# Take a try
+# Try it
 This project includes a simple sample that you can run to see the results directly. 
 
 https://github.com/LenbaSun/prj_unreal_scene_reconstruct/assets/14867784/ae4587ba-728a-4dec-8374-d8e1cd48728e
